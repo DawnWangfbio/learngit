@@ -1,3 +1,8 @@
 Come on!
 Let's learn git!
-Don't be afraid & stop!
+<<<<<<< HEAD
+Don't be afraid and stop!
+=======
+Don't be afraid and stop!
+
+>>>>>>> feature1
